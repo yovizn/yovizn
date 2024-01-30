@@ -33,7 +33,7 @@ I'm open to collaboration on projects related to [Your Interests].
 
 ## 📫 How to reach me
 
-Feel free to reach out to me via [Email](mailto:youremail@example.com) or through my social media profiles mentioned above.
+Feel free to reach out to me via [Email](mailto:yovizulkarnaen@gmail.com) or through my social media profiles mentioned above.
 
 ## ⚡ Fun Fact
 
