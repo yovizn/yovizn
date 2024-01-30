@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Yovi, a Full-Stack Developer passionate about 
 ## 🚀 About Me
 
 - 🌐 [Personal Website](https://yourwebsite.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/yovi-zulkarnaen-793707229/])
+- 💼 [LinkedIn](https://linkedin.com/in/yovi-zulkarnaen-793707229)
 - 🐦 [Twitter](https://twitter.com/yovizn24)
 - 📷 [Instagram](https://instagram.com/yovizn)
 
