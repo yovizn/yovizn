@@ -1,13 +1,13 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a [Your Profession/Interest] passionate about [Your Interests].
+Welcome to my GitHub profile! I'm Yovi, a Full-Stack Developer passionate about Website.
 
 ## 🚀 About Me
 
 - 🌐 [Personal Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 🐦 [Twitter](https://twitter.com/yourtwitter)
-- 📷 [Instagram](https://instagram.com/yourinstagram)
+- 💼 [LinkedIn]([https://linkedin.com/in/yovi-zulkarnaen-793707229/])
+- 🐦 [Twitter](https://twitter.com/yovizn24)
+- 📷 [Instagram](https://instagram.com/yovizn)
 
 I love exploring new technologies and creating cool projects. Here you'll find a mix of my personal and professional projects, including:
 
